@@ -6,7 +6,7 @@ mark, rp, rt, ruby, summary, time{display:inline }
 .right {float:right}
 .wrapper {width:100%;overflow:hidden}
 /* Global properties ======================================================== */
-body{background:#d8d0a5;border:0;font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#696969f;line-height:22px;font-style:italic}
+body{background:#dfd2c2;border:0;font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#696969f;line-height:22px;font-style:italic}
 .ic, .ic a {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
 .css3{border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;box-shadow:0 0 4px rgba(0, 0, 0, .4);-moz-box-shadow:0 0 4px rgba(0, 0, 0, .4);-webkit-box-shadow:0 0 4px rgba(0, 0, 0, .4);position:relative}
 .body1{background:url(../images/bg.jpg) bottom center repeat}
@@ -26,7 +26,7 @@ h3{font-size:26px;color:#000;line-height:1.2em;letter-spacing:-0px;padding-botto
 h3 span{display:block;margin-top:-7px}
 * + html h3 span{margin-top:-25px}
 h3 .dropcap{float:left;width:56px;height:56px;margin-top:0px;margin-right:10px;background:url(../images/dropcap1.gif) 0 0 no-repeat;font-size:38px;color:#fff;text-align:center;font-weight:700;line-height:1.2em;padding-top:6px}
-h4{font-size:26px;line-height:1.2em;color:#0c0c0c;font-weight:400;padding:43px 0 15px 0}
+h4{font-size:26px;line-height:1.2em;color:#a356a4;font-weight:400;padding:43px 0 15px 0}
 h5{font-size:33px;color:#000;line-height:1.7em;padding:0 0 16px 0;font-weight:400;font-style:normal}
 h5 .dropcap{float:left;width:56px;height:56px;margin-top:0px;margin-right:10px;background:url(../images/dropcap1.gif) 0 0 no-repeat;color:#fff;text-align:center}
 h5 .dropcap strong{font-weight:700;font-size:34px;line-height:1.2em;display:block;padding-top:3px;letter-spacing:-2px}
@@ -40,7 +40,7 @@ header{padding-top:34px; min-height: 150px;}
 #menu li {float:left;padding-left:51px}
 #menu li a{display:block;font:20px "Trebuchet MS", Arial, Helvetica, sans-serif;line-height:1.2em;color:#0c0c0c;text-transform:uppercase;text-decoration:none;text-align:center;letter-spacing:-1px;height:79px;font-style:normal;font-weight:700}
 #menu li a span{font-size:13px;line-height:1.2em;color:#0c0c0c;display:block;letter-spacing:-1px;margin-top:-3px;font-weight:normal}
-#menu li a:hover, #menu .active a{color:#0c0c0c}
+#menu li a:hover, #menu .active a{color:#a356a4;}
 #menu li a:hover span, #menu .active a span{color:#790011;}
 #menu #nav1 a{background:url(../images/menu_icon1.gif) bottom center no-repeat}
 #menu #nav1 a:hover, #menu #nav1.active a{background:url(../images/menu_icon1_active.gif) bottom center no-repeat}
@@ -92,7 +92,7 @@ header{padding-top:34px; min-height: 150px;}
 .tabs ul.nav {float:left; padding-bottom:24px; padding-left: 10px;}
 .tabs ul.nav li{padding-right:1px;float:left}
 .tabs ul.nav li a{display:block;position:relative;width:32px;height:32px;font-size:19px;color:#fff;line-height:32px;background:#0c0c0c;text-decoration:none;text-align:center}
-.tabs ul.nav .selected a, .tabs ul.nav  a:hover{background:#0c0c0c;}
+.tabs ul.nav .selected a, .tabs ul.nav  a:hover{background:#790011;}
 .tabs .tab-content {display:none}
 .tab-content{margin : 10px;}
 /*--- tabs end ---*/
